@@ -20,6 +20,7 @@ double a1,b1,c1,d1,e1,f1,g1,h1,pi=3.1416;
      e1=Math.pow(1331,1/3);
      f1=Math.sqrt(25);
      g1=Math.sin((2*pi)/6);
+     System.out.println("Hola Mundo");
      System.out.println("el resultado de la operacion es: "+a1);
      System.out.println("el resultado de la operacion es: "+d1);
      System.out.println("el resultado de la operacion es: "+e1);

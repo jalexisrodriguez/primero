@@ -27,6 +27,7 @@ double a1,b1,c1,d1,e1,f1,g1,h1,pi=3.1416;
      System.out.println("el resultado de la operacion es: "+g1);
      System.out.println("verdadero: 7 es mayor que 4");
      System.out.println("verdadero: 4 es menor que 8");
+     System.out.println("falso: 2 es mayor que 25");
     }             
     }
     
